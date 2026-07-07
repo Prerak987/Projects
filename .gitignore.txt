@@ -1,3 +1,0 @@
-# Ignore all Keras/HDF5 files in the repository
-*.h5
-*.keras
